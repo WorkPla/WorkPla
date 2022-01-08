@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WorkPla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Shuvo.
+- 👀 I’m interested in Mobile Application Development.
+- 🌱 I’m currently learning which i don't know.
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me : shuvokarmakar979@gmail.com
 
 <!---
 WorkPla/WorkPla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
